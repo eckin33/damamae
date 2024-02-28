@@ -16,7 +16,9 @@ header {
     header{
         background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('roludoimgpracellcerta.jpg');
     }
-    
+    .principal h2{
+    33px
+    }
 }
 
 a{
