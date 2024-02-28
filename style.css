@@ -19,7 +19,7 @@ header {
     .principal h2{
         font-size: 33px;
     }
-    .principal p {
+    header .principal .links p {
         color: white;
     }
 }
